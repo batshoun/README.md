@@ -20,7 +20,4 @@ Welcome to my GitHub page! Here, you'll find a collection of my scholarly writin
 
 ---
 
-### 🚀 About Me
-I am passionate about exploring critical perspectives in law, society, and political structures. My work delves into legal theory, human rights, and sociological frameworks to understand modern governance and social evolution.
-
 Thank you for visiting! 🙌
