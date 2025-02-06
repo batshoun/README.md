@@ -1,6 +1,6 @@
 # 📖 Sami Batshoun - Scholarly Writing
 
-Welcome to my GitHub page! Here, you'll find a collection of my scholarly writings on topics related to law, sociology, and political theory. Feel free to explore my work through the links below. 
+Welcome! Here, you'll find a collection of my scholarly writings on topics related to law, sociology, and political theory. Feel free to explore my work through the links below. 
 
 ## ✍️ Featured Writings
 
